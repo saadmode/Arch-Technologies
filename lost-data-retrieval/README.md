@@ -109,7 +109,3 @@ The main script scans the whole drive, so it also recovers pictures that were no
 ## Disclaimer
 
 These tools should only be used on drives and data that you own or have explicit permission to examine. Recovered files may contain private information and should be handled carefully.
-
-## Project Evidence
-
-Screenshots and a demonstration video can be added to document the scripts running and recovering the deleted pictures successfully.
